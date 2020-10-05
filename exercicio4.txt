@@ -1,0 +1,5 @@
+Oncrawl, crawler que realiza auditorias de SEO completas em sites;
+Dyno Mapper, focado na criação automática de mapas do site;
+Arachnode.net, sistema de código aberto escrito em linguagem C#;
+Screaming frog, que tem um pacote de ferramentas de SEO completo para melhorar sites depois da varredura;
+Apifier, perfeito para monitorar e guiar decisões importantes para sites.
